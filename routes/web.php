@@ -12,5 +12,9 @@
 */
 
 Route::get('/', function () {
+	$foo = 'bar';
+    //return ($foo);
     return view('welcome');
 });
+
+Route::resource('prueba', 'PruebaController');
