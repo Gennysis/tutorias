@@ -4,14 +4,20 @@
 	<a href="https://github.com/jncsoga">
 		<img src="https://avatars3.githubusercontent.com/u/9665267?s=64&v=4" alt="Juan Carlos" title="Juan Carlos" style="height: 60px;">
 	</a>
-	<a href="https://github.com/ISBACsolzac">
+	<a href="https://github.com/ISBACsolzac">Isbac
+		<!-- 
 		<img src="https://avatars0.githubusercontent.com/u/22861887?s=64&v=4" alt="Isbac" title="Isbac" style="height: 60px;">
+		-->
 	</a>
-	<a href="https://github.com/pakosamuel">
+	<a href="https://github.com/pakosamuel">Pako
+		<!-- 
 		<img src="https://avatars1.githubusercontent.com/u/47428264?s=64&v=4" alt="Pako" title="Pako" style="height: 60px;">
+		-->		
 	</a>
-	<a href="https://github.com/Gennysis">
+	<a href="https://github.com/Gennysis">Genny
+		<!-- 
 		<img src="https://avatars3.githubusercontent.com/u/47047894?s=88&v=4" alt="Genny" title="Genny" style="height: 60px;">
+		-->		
 	</a>
 	<a href="https://github.com/ricardo77a">
 		<img src="https://avatars1.githubusercontent.com/u/24514193?s=88&v=4" alt="Ricardo" title="Ricardo" style="height: 60px;">
