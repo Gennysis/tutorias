@@ -20,7 +20,7 @@
 		-->		
 	</a>
 	<a href="https://github.com/ricardo77a">
-		<img src="https://avatars1.githubusercontent.com/u/24514193?s=88&v=4" alt="Ricardo" title="Ricardo" width="60" height="60"">
+		<img src="https://avatars3.githubusercontent.com/u/24514193?s=460&v=4" alt="Ricardo" title="Ricardo" width="60" height="60"">
 	</a>
 </p>
 
