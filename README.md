@@ -1,14 +1,26 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<p align="center"><img src="http://mapaches3.itz.edu.mx/itz_rg/wp-content/uploads/2013/10/foto.png"></p>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+	<a href="https://github.com/jncsoga">
+		<img src="https://avatars3.githubusercontent.com/u/9665267?s=64&v=4" alt="Juan Carlos" title="Juan Carlos" style="height: 60px;">
+	</a>
+	<a href="https://github.com/ISBACsolzac">
+		<img src="https://avatars0.githubusercontent.com/u/22861887?s=64&v=4" alt="Isbac" title="Isbac" style="height: 60px;">
+	</a>
+	<a href="https://github.com/pakosamuel">
+		<img src="https://avatars1.githubusercontent.com/u/47428264?s=64&v=4" alt="Pako" title="Pako" style="height: 60px;">
+	</a>
+	<a href="https://github.com/Gennysis">
+		<img src="https://avatars3.githubusercontent.com/u/47047894?s=88&v=4" alt="Genny" title="Genny" style="height: 60px;">
+	</a>
+	<a href="https://github.com/ricardo77a">
+		<img src="https://avatars1.githubusercontent.com/u/24514193?s=88&v=4" alt="Ricardo" title="Ricardo" style="height: 60px;">
+	</a>
 </p>
 
-## About Laravel
+## ACERCA DE TUTORIAS_ITZ_MSC
 
+Tutorias_itz_msc es una aplicación web creada para la materia de Ingeniería de Software orientada a procesos de la Maestría en Ingeniería en Sistemas Computacionales del Instituto Tecnológico de Zacatecas.
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
