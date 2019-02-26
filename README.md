@@ -1,4 +1,4 @@
-<p align="center"><img src="http://mapaches3.itz.edu.mx/itz_rg/wp-content/uploads/2013/10/foto.png" height="20%"></p>
+<p align="center"><img src="http://mapaches3.itz.edu.mx/itz_rg/wp-content/uploads/2013/10/foto.png" width="346px" height="391px"></p>
 
 <p align="center">
 	<a href="https://github.com/jncsoga">
