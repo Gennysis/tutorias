@@ -1,20 +1,20 @@
-<p align="center"><img src="http://mapaches3.itz.edu.mx/itz_rg/wp-content/uploads/2013/10/foto.png"></p>
+<p align="center"><img src="http://mapaches3.itz.edu.mx/itz_rg/wp-content/uploads/2013/10/foto.png" width="80%" height="80%"></p>
 
 <p align="center">
 	<a href="https://github.com/jncsoga">
-		<img src="https://avatars3.githubusercontent.com/u/9665267?s=64&v=4" alt="Juan Carlos" title="Juan Carlos" width="60" height="60"">
+		<img src="https://avatars3.githubusercontent.com/u/9665267?s=64&v=4" alt="Juan Carlos" title="Juan Carlos" width="60" height="60">
 	</a>
 	<a href="https://github.com/ISBACsolzac">
-		<img src="https://avatars0.githubusercontent.com/u/22861887?s=64&v=4" alt="Isbac" title="Isbac" width="60" height="60"">
+		<img src="https://avatars0.githubusercontent.com/u/22861887?s=64&v=4" alt="Isbac" title="Isbac" width="60" height="60">
 	</a>
 	<a href="https://github.com/pakosamuel">
-		<img src="https://avatars1.githubusercontent.com/u/47428264?s=64&v=4" alt="Pako" title="Pako" width="60" height="60"">
+		<img src="https://avatars1.githubusercontent.com/u/47428264?s=64&v=4" alt="Pako" title="Pako" width="60" height="60">
 	</a>
 	<a href="https://github.com/Gennysis">
-		<img src="https://avatars3.githubusercontent.com/u/47047894?s=88&v=4" alt="Genny" title="Genny" width="60" height="60"">
+		<img src="https://avatars3.githubusercontent.com/u/47047894?s=88&v=4" alt="Genny" title="Genny" width="60" height="60">
 	</a>
 	<a href="https://github.com/ricardo77a">
-		<img src="https://avatars3.githubusercontent.com/u/24514193?s=460&v=4" alt="Ricardo" title="Ricardo" width="60" height="60"">
+		<img src="https://avatars3.githubusercontent.com/u/24514193?s=460&v=4" alt="Ricardo" title="Ricardo" width="60" height="60">
 	</a>
 </p>
 
