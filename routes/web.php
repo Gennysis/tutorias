@@ -12,9 +12,7 @@
 */
 
 Route::get('/', function () {
-	$foo = 'bar';
-    //return ($foo);
-    return view('welcome');
+    return redirect('login');
 });
 
 Auth::routes();
@@ -23,5 +21,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('auth/{provider}', 'Auth\LoginController@redirectToProvider');
 Route::get('auth/{provider}/callback/', 'Auth\LoginController@handleProviderCallback');
+
+Route::resource('administrador/usuarios', 'Administrador\UsuariosController');
 
 
