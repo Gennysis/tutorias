@@ -24,4 +24,5 @@ Route::get('auth/{provider}/callback/', 'Auth\LoginController@handleProviderCall
 
 Route::resource('administrador/usuarios', 'Administrador\UsuariosController');
 
+Route::resource('encuestas','Administrador\EncuestasController');
 
